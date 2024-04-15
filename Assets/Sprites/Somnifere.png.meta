@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Somnifere_0: -2804625760497154597
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
