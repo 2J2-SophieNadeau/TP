@@ -11,5 +11,11 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Principale.unity
     guid: 7fccbc19cc38d460098e8104b10648b7
+  - enabled: 1
+    path: Assets/Scenes/FinGagne.unity
+    guid: 2fcdd2c1925014a59a9ed582c69639ea
+  - enabled: 1
+    path: Assets/Scenes/FinPerd.unity
+    guid: 32722a4a9b4df4263a486526466cb73b
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0

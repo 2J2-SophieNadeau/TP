@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: c6730f23185404e9ea1516bf2b93551e
+guid: 162407c90636942ddab752ddb23b03d0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7730508274238779215
-    second: "arre\u0302tDroite4_0"
+      213: 3105157661838965092
+    second: marcheDroite4_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,7 +113,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "arre\u0302tDroite4_0"
+      name: marcheDroite4_0
       rect:
         serializedVersion: 2
         x: 0
@@ -127,8 +127,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1b097ccbea7b7b490800000000000000
-      internalID: -7730508274238779215
+      spriteID: 4697e7d017cb71b20800000000000000
+      internalID: 3105157661838965092
       vertices: []
       indices: 
       edges: []
@@ -143,8 +143,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      "arre\u0302tDroite4_0": -7730508274238779215
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

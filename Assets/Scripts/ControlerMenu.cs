@@ -12,7 +12,7 @@ public class ControlerMenu : MonoBehaviour
     void Start()
     {
         // Au commencement c'est le menu principal qui est affiché
-        BoutonMenuPrincipal();
+        MenuPrincipal();
     }
 
     // Si le bouton Commencer est appuyé on lance la scene de jeu
@@ -29,7 +29,7 @@ public class ControlerMenu : MonoBehaviour
     }
 
     // Menu principal affiché au début, contrôle églament le bouton de retour dans le MenuRegles 
-    public void BoutonMenuPrincipal()
+    public void MenuPrincipal()
     {
         menuPrincipal.SetActive(true);
         menuRegles.SetActive(false);
